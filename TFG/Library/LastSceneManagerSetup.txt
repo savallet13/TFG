@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenary/Scenary.unity
+- path: Assets/StarterKit-MoveCamAI/Example/Scene/StarterKit-MoveCamAI.unity
   isLoaded: 1
   isActive: 1
